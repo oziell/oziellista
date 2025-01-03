@@ -1,0 +1,2 @@
+# oziellista
+Lista iptv
